@@ -2,6 +2,7 @@ name: voila-vuetify-template-examples
 channels:
   - conda-forge
 dependencies:
+  - ipyleaflet>=0.11.4
   - ipywidgets=7.5.1
   - ipyvuetify
   - voila=0.1.12
